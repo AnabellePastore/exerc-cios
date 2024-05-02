@@ -21,3 +21,7 @@ let bonus = parseInt (prompt("quantos pontos vc deseja somar?"))
 //parseFloat(): transforma oq esta entre () em numero com , (quabrado)
 let notaAluno = parseFloat(prompt("digite a nome do aluno"))
 
+
+// == -> verifica se um valor é igual a outro
+// === -> verifica se o valor e o tipo dos itens são iguais
+
