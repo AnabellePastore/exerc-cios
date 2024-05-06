@@ -9,7 +9,7 @@ let n2= parseFloat(prompt ("Informe o segundo numero de 1 a 3: ")) ;
 let n3= parseFloat(prompt ("Informe o terceiro numero de 1 a 3: ")) ;
 
 if (n1 > n2 > n3){
-    console.log( "os números estçao em ordem crescente")
+    console.log( "os números estão em ordem crescente")
 }
 else{
     console.log("os números não estão em ordem crescente")
