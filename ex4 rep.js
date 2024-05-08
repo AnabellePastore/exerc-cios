@@ -9,4 +9,5 @@ for( let cont =1; cont <=10; cont ++){
     
 
 //for( let cont =1; cont <=10; cont ++)  -> iforma ate quantos número vc vai multiplicar
-// as duas (()) no cont*number servem para mostrar para o o programa que quem=remos primeiro que ele multiplique e dps exiba o resultado
+// as duas (()) no cont*number servem para mostrar para o o programa que quem=remos primeiro que ele multiplique e dps exiba o
+// resultado
