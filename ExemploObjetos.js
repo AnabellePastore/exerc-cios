@@ -18,7 +18,6 @@ let pessoa2 ={
     nome: "felipe",
     apelido: "tadeu"
 }
-
 let produto ={
     nomeProduto: "Tônico Capilar",
     marca: "Manual",
